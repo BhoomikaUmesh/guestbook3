@@ -1,0 +1,14 @@
+cd guestbook3
+npm i
+go to mongodb atlas
+see you are logged in as bhoomikaumesh2105
+open the project
+create cluster
+copy password and connection string
+add to the code 
+node server.js 
+cntrl c 
+npm start
+
+browsre : http://localhost:3000
+add edit or delete data here
